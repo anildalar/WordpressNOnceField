@@ -1,0 +1,20 @@
+/*
+    Theme Name: ABC
+    Theme URI: https://oklabs.in
+    Author: OKLABS
+    Author URI: https://oklabs.in
+    Version: 0.0.1
+    Description: this iis my description
+*/
+
+header,footer{
+    height: 200px;
+    border:1px dashed red;
+}
+div.main{
+    height: 1000px;
+    border:1px dashed green;
+}
+.main > .c{
+    border:1px dashed orange;
+}
